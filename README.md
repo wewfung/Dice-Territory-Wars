@@ -1,4 +1,5 @@
 # Dice-Territory-Wars
+
 ######Dice Conquest Board Game
 
 ######2 to 5 players
@@ -6,7 +7,7 @@
 #####Goal of the Game:
 - Capture all the territories and win!
 
-######How to play:
+#####How to play:
 - Each square represents a territory with a color corresponding to its owner
 - The number at the top-right is the "strength" of the territory
 - On your turn, click on one of the territories you control and select an adjacent enemy to attack
