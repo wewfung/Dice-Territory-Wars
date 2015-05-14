@@ -1,9 +1,6 @@
 # Dice-Territory-Wars
 
-######Dice Conquest Board Game
-
-
-######2 to 5 players
+######Dice Conquest Board Game (2 to 5 players)
 
 #####Goal of the Game:
 - Capture all the territories and win!
